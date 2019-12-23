@@ -1,4 +1,4 @@
-# Learinig to make game engine
+# Learning to make game engine
 This game engine is exact copy of its original engine,
 
 This repository is made only to learn , please refer to the original engine repository
