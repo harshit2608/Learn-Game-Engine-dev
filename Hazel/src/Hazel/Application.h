@@ -2,7 +2,8 @@
 
 #include "Core.h"
 
-namespace Hazel {
+namespace Hazel
+{
 
 	class HAZEL_API Application
 	{
@@ -12,5 +13,7 @@ namespace Hazel {
 
 		void Run();
 	};
+
+	Application* CreateApplication();
 }
 
